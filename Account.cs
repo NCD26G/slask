@@ -9,5 +9,6 @@ public class Account
     {
         Console.WriteLine("Nisse was here!");
         Console.WriteLine("Michael was here too!");
+        Console.WriteLine("Nisse did a bad choice!");
     }
 }
